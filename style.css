@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: white;
+    background: rgb(7, 6, 6);
+    font-family: 'Libre Baskerville', serif;
+    font-size: 3rem;
+}
+img{
+    height: 200px;
+}
+p{
+    margin: 0%;
+    color: white;
+    text-align: center;
+    font-size: 20pt;
+}
+#links{
+    text-align: left;
+    margin-top: 5%;
+}
+li{
+    color: white;
+}
+footer{
+    align-items: baseline;
+    color: rgb(40, 86, 126);
+    text-align: center;
+    background-color: antiquewhite;
+}
